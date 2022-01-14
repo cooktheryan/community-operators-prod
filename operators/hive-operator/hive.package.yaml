@@ -1,5 +1,5 @@
 channels:
-- currentCSV: hive-operator.v1.2.3375-1f0f3eb
+- currentCSV: hive-operator.v1.2.3431-6ba92bb
   name: alpha
 - currentCSV: hive-operator.v1.0.3-7-gba4793f
   name: ocm-1.0
@@ -11,7 +11,7 @@ channels:
   name: ocm-2.2
 - currentCSV: hive-operator.v1.1.9-1.1.8.2
   name: ocm-2.3
-- currentCSV: hive-operator.v2.4.3199-cce4cb9
+- currentCSV: hive-operator.v2.4.3201-8c50440
   name: ocm-2.4
 defaultChannel: alpha
 packageName: hive-operator
